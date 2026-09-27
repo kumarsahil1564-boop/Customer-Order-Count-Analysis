@@ -1,0 +1,9 @@
+Customer_ID,Customer_Name,Order_Count,Total_Order_Amount
+CUST005,Vikas Yadav,4,6250
+CUST003,Rahul Singh,4,6200
+CUST004,Neha Verma,4,5750
+CUST001,Aman Kumar,5,5750
+CUST002,Riya Sharma,4,4600
+CUST007,Rohit Mehta,2,2150
+CUST008,Anjali Singh,1,1250
+CUST006,Priya Gupta,1,500
